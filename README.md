@@ -8,8 +8,8 @@ Professionally, I am looking to find employment within DeFi in a wide range of r
 ## Summer 2022 Projects + Courses
 ### Projects
 - Smart Contracts using solidity and javascript
-- coingecko api to data pipeline for streamlit dashboard 
-- Cornell Blockchain Club discretionary trading strategy 
+- coingecko api --> data pipeline --> postgres db --> streamlit dashboard 
+- Cornell Blockchain Club discretionary trading strategy/ideas
 - Coin/Token research 
 ### Courses 
 - (Cornell) Engineering Statistics and Probability 1

@@ -25,9 +25,7 @@ Comparing relative fees of the same chain may indicate an increased network dema
 Shows the count of transactions per day after filtering failed transactions. Looking at the number of large transactions is also an indicator of institutional or whale investors. Often referred to as 'smart money'
 
 ### Other On-Chain Metrics
-#### Futures
-#### Perpetuals
-#### Options
+#### ADD AS BECOME INTERESTING TO THINK ABOUT
 
 ## Financial Metrics 
 ###  (Trading Vol.)
